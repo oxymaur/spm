@@ -1,0 +1,1658 @@
+[
+{
+"id": "1",
+"question": "Welche Entwicklung gehoert zu den aktuellen Herausforderungen fuer Unternehmen im Marktumfeld?",
+"choices": {
+"a": "Globalisierung",
+"b": "Fachkraeftemangel",
+"c": "Abnehmende Wettbewerbsintensitaet",
+"d": "Wertewandel"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "Globalisierung, Fachkraeftemangel und Wertewandel zaehlen zu den Trends, die Unternehmen vor Herausforderungen stellen. Der Wettbewerbsdruck nimmt zu statt ab, daher ist c falsch."
+},
+{
+"id": "2",
+"question": "Was versteht man unter IT-Sourcing?",
+"choices": {
+"a": "Beschaffung von IT-Produkten, Dienstleistungen oder Rechten zur Unterstuetzung der Wertschoepfung",
+"b": "Verkauf aller IT-Systeme eines Unternehmens an einen externen Anbieter",
+"c": "Entwicklung aller Software ausschliesslich im eigenen Haus ohne Zukauf",
+"d": "Vergabe von Nicht-IT-Aufgaben an externe Lieferanten"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "IT-Sourcing bezeichnet den Einkauf bzw. die Beschaffung von IT-bezogenen Leistungen (Produkte, Services, Rechte), die die Wertschoepfung des Unternehmens unterstuetzen. Es bedeutet nicht, alle IT abzustossen oder alles intern zu entwickeln."
+},
+{
+"id": "3",
+"question": "Wovon haengt die Entscheidung zwischen Eigenleistung (Make) und Fremdbezug (Buy) typischerweise ab?",
+"choices": {
+"a": "Von der strategischen Bedeutung des betreffenden Geschaeftsbereichs",
+"b": "Von der Verfuegbarkeit geeigneter externer Anbieter",
+"c": "Vom aktuellen Boersenwert des Unternehmens",
+"d": "Von der Zufriedenheit der IT-Mitarbeiter"
+},
+"correct_answers": [
+"a",
+"b"
+],
+"explanation": "Die Make-or-Buy-Entscheidung wird hauptsaechlich von der strategischen Bedeutung der Leistung und der Verfuegbarkeit externer Lieferanten beeinflusst. Finanzkennzahlen oder Mitarbeiterzufriedenheit stehen hierbei nicht im Vordergrund."
+},
+{
+"id": "4",
+"question": "Welche der folgenden Aussagen beschreibt einen Vorteil des IT-Outsourcings?",
+"choices": {
+"a": "Zugang zu externem Expertenwissen",
+"b": "Reduzierte Flexibilitaet des Unternehmens",
+"c": "Bessere Skalierbarkeit der IT-Ressourcen",
+"d": "Hoehere Fixkosten fuer IT"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Durch Outsourcing erhaelt ein Unternehmen Zugriff auf externes Know-how und kann seine IT-Ressourcen bei Bedarf besser skalieren. Die Flexibilitaet nimmt eher zu (nicht ab), und Fixkosten koennen in variable Kosten umgewandelt werden statt zu steigen."
+},
+{
+"id": "5",
+"question": "Welcher der folgenden Punkte ist ein moeglicher Nachteil des IT-Outsourcings?",
+"choices": {
+"a": "Abhaengigkeit von externen Anbietern",
+"b": "Verlust von internem IT-Know-how",
+"c": "Hohe Anfangsinvestitionen in eigene Hardware",
+"d": "Geringere Kontrollmoeglichkeiten ueber IT-Prozesse"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "Nachteile des Outsourcings koennen eine staerkere Abhaengigkeit vom Dienstleister, der Verlust unternehmensinternen Wissens und weniger Kontrolle ueber die ausgelagerten IT-Prozesse sein. Hohe Anfangsinvestitionen in eigene Hardware entfallen beim Outsourcing eher, das ist kein Nachteil davon."
+},
+{
+"id": "6",
+"question": "Ein Unternehmen hat wenig eigenes IT-Know-how und muss sehr kurzfristig zusaetzliche IT-Ressourcen bereitstellen. Welche Sourcing-Strategie bietet sich an?",
+"choices": {
+"a": "IT-Aufgaben an einen externen Dienstleister auslagern (Outsourcing)",
+"b": "Alle IT-Leistungen intern mit vorhandenen Mitteln erbringen",
+"c": "Das IT-Vorhaben auf unbestimmte Zeit verschieben",
+"d": "Die IT-Abteilung verkleinern, um Kosten zu sparen"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Verfuegt ein Unternehmen nicht ueber ausreichendes eigenes IT-Personal und muessen schnell Ressourcen aufgebaut werden, ist das Outsourcing an einen externen spezialisierten Provider sinnvoll. Dadurch koennen Know-how und Kapazitaet kurzfristig bereitgestellt werden."
+},
+{
+"id": "7",
+"question": "Ein IT-Bereich ist fuer das Unternehmen von hoher strategischer Bedeutung, und es gibt kaum geeignete externe Anbieter. Wie sollte das Unternehmen diesen Bereich idealerweise organisieren?",
+"choices": {
+"a": "Die Leistungen in Eigenregie intern erbringen (Insourcing)",
+"b": "Den Bereich komplett an irgendeinen Anbieter auslagern",
+"c": "Auf den Einsatz dieser IT-Loesungen verzichten",
+"d": "Abwarten, bis ein passender externer Anbieter am Markt erscheint"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Wenn ein IT-Bereich zum Kern des Unternehmens gehoert (strategisch wichtig) und kein passender Dienstleister verfuegbar ist, sollte das Unternehmen diesen Bereich selbst betreiben. So behaelt es die Kontrolle und das Know-how im Haus."
+},
+{
+"id": "8",
+"question": "Welche der folgenden Faktoren treiben innerhalb eines Unternehmens das IT-Sourcing voran?",
+"choices": {
+"a": "Die Geschaeftsleitung erkennt die grosse Bedeutung der IT fuer den Unternehmenserfolg",
+"b": "Die IT-Abteilung wird als aktiver Geschaeftspartner der Fachbereiche wahrgenommen",
+"c": "Lieferanten tragen zur Wettbewerbsfaehigkeit des Unternehmens bei",
+"d": "IT wird als unwichtig fuer die Unternehmensstrategie erachtet"
+},
+"correct_answers": [
+"a",
+"b",
+"c"
+],
+"explanation": "Treiber fuer verstaerktes IT-Sourcing sind beispielsweise, dass das Management die strategische Rolle der IT anerkennt, die IT-Organisation als Business-Partner gesehen wird und externe Lieferanten einen wichtigen Beitrag zur Effizienz und Wettbewerbsfaehigkeit leisten. Wenn IT als unwichtig angesehen wuerde, waere das kein Anreiz fuer Sourcing."
+},
+{
+"id": "9",
+"question": "Womit befasst sich das Relationship Management (RM) im IT-Kontext?",
+"choices": {
+"a": "Mit allen wesentlichen internen und externen Beziehungen eines Unternehmens (z.B. zu Kunden, Wettbewerbern, Lieferanten)",
+"b": "Nur mit den Kundenbeziehungen im Vertrieb",
+"c": "Ausschliesslich mit der internen Kommunikation im IT-Team",
+"d": "Nur mit den Lieferantenbeziehungen der IT-Abteilung"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Relationship Management umfasst die Pflege saemtlicher geschaeftsrelevanter Beziehungen des Unternehmens – sowohl intern (zwischen IT und Fachbereichen) als auch extern zu Kunden, Wettbewerbern und Lieferanten. Es geht nicht nur um Vertriebskunden oder rein interne Teamkommunikation."
+},
+{
+"id": "10",
+"question": "Welche Besonderheiten kennzeichnen Kooperationsbeziehungen im Business-IT-Umfeld?",
+"choices": {
+"a": "Hohe Komplexitaet und Dynamik",
+"b": "Fachuebergreifende Zusammenarbeit ist noetig",
+"c": "Ziele und Anforderungen aendern sich staendig",
+"d": "Geringer Innovationsgrad und wenige Risiken"
+},
+"correct_answers": [
+"a",
+"b",
+"c"
+],
+"explanation": "Beziehungen zwischen Business und IT sind oft sehr komplex und dynamisch, erfordern bereichsuebergreifende Zusammenarbeit und sind staendig im Wandel hinsichtlich Ziele und Anforderungen. Ein hoher Innovationsgrad und entsprechende Risiken sind typisch (nicht ein geringer)."
+},
+{
+"id": "11",
+"question": "Welcher der folgenden Schritte gehoert NICHT zu einem typischen IT-Sourcing-Vorgehensmodell nach BITKOM?",
+"choices": {
+"a": "Strategische Bewertung",
+"b": "Ausschreibung (RFP) und Business Case",
+"c": "Auswahl des Anbieters",
+"d": "Vertragsverhandlung",
+"e": "Betriebsuebernahme des IT-Bereichs durch den Kunden"
+},
+"correct_answers": [
+"e"
+],
+"explanation": "Ein typisches Vorgehensmodell umfasst die strategische Bewertung, das Erstellen einer Ausschreibung und Business Case, die Auswahl des Providers, Vertragsverhandlungen, die Uebergabe/Transition sowie das laufende Management. Eine 'Betriebsuebernahme durch den Kunden' ist kein Bestandteil eines Outsourcing-Prozesses."
+},
+{
+"id": "12",
+"question": "Wofuer steht die Abkuerzung RFP im IT-Sourcing-Prozess?",
+"choices": {
+"a": "Request for Proposal – eine formale Ausschreibungsanfrage an moegliche Anbieter",
+"b": "Ready for Production – die Betriebsbereitschaft einer Anwendung",
+"c": "Risk Free Project – ein risikofreies IT-Projekt",
+"d": "Resource Fulfillment Plan – ein Plan zur Ressourcenbeschaffung"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "RFP bedeutet Request for Proposal, also eine formelle Aufforderung an Anbieter, ein Angebot fuer definierte Leistungen abzugeben. Diese wird im Ausschreibungsprozess genutzt. Die anderen Bedeutungen stimmen nicht im Sourcing-Kontext."
+},
+{
+"id": "13",
+"question": "Was wird in der Phase der strategischen Bewertung (Phase 1) eines Sourcing-Projekts typischerweise getan?",
+"choices": {
+"a": "Ziele und Kriterien in einer Entscheidungsmatrix festlegen und bewerten",
+"b": "Sofortige Vertragsverhandlungen mit Providern fuehren",
+"c": "Kostentreiber und Kernkompetenzen identifizieren",
+"d": "Machbarkeitsanalyse (Feasibility Study) durchfuehren"
+},
+"correct_answers": [
+"a",
+"c",
+"d"
+],
+"explanation": "In der strategischen Evaluierungsphase werden u.a. die Ziele des Vorhabens definiert, Bewertungs-Kriterien gesammelt und gewichtet, wesentliche Kostentreiber und eigene Staerken (Kernkompetenzen) analysiert sowie eine erste Machbarkeitspruefung durchgefuehrt. Vertragsverhandlungen finden erst in einer spaeteren Phase statt."
+},
+{
+"id": "14",
+"question": "Welche Aufgaben fallen in der Ausschreibungs- und Angebotsphase (RFP-Phase) eines Sourcing-Projekts an?",
+"choices": {
+"a": "Die aktuelle IT-Service-Organisation analysieren und dokumentieren",
+"b": "Business-Anforderungen und -Treiber durch Gespraeche erheben",
+"c": "Jetzt bereits den endgueltigen Provider auswaehlen",
+"d": "Ausschreibungsunterlagen erstellen und an potenzielle Lieferanten versenden"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "In der RFP-Phase wird der Ist-Zustand erhoben: Man fuehrt Interviews, identifiziert Business-Treiber und analysiert die vorhandene IT-Service-Struktur. Darauf basierend erstellt man die Ausschreibungsunterlagen und verschickt sie an moegliche Anbieter. Die endgueltige Auswahl erfolgt jedoch erst nach Auswertung der Angebote."
+},
+{
+"id": "15",
+"question": "Worauf sollte bei Vertragsverhandlungen mit einem Cloud-Provider geachtet werden?",
+"choices": {
+"a": "Die Rechtsabteilung fruehzeitig einbinden",
+"b": "Ein flexibles Preismodell und anpassbare Servicebedingungen vereinbaren",
+"c": "Auf eine Due-Diligence-Pruefung verzichten, um Zeit zu sparen",
+"d": "Vertraege muendlich schliessen, um flexibel zu bleiben"
+},
+"correct_answers": [
+"a",
+"b"
+],
+"explanation": "In der Verhandlungsphase ist es wichtig, die Rechtsabteilung einzubeziehen und ein Preismodell sowie Servicekonditionen zu definieren, die flexibel genug sind. Eine gruendliche Due Diligence (Pruefung) sollte ebenfalls stattfinden; auf sie zu verzichten waere fahrlaessig. Vertraege muessen schriftlich fixiert werden."
+},
+{
+"id": "16",
+"question": "Welche Aufgaben stehen typischerweise in der Uebergangs- und Implementierungsphase (Transfer) eines Outsourcing-Projekts an?",
+"choices": {
+"a": "Einrichtung eines Change-Managements fuer die Umstellung",
+"b": "Sicherstellen des Know-how-Transfers zum Dienstleister",
+"c": "Sofortiges Abschalten aller Altsysteme ohne Uebergangsphase",
+"d": "Etablierung eines Innovationsmanagements mit dem Provider"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "In der Transferphase werden Change-Management-Massnahmen ergriffen, eine Governance-Struktur etabliert, Wissen vom bisherigen Team zum Provider transferiert und ggf. ein gemeinsames Innovationsmanagement aufgesetzt. Altsysteme werden erst nach erfolgreicher Migration und Ueberpruefung abgeschaltet, nicht abrupt zu Beginn."
+},
+{
+"id": "17",
+"question": "Was versteht man unter Offshoring im IT-Sourcing?",
+"choices": {
+"a": "Die Auslagerung von IT-Leistungen an einen externen Anbieter im Ausland",
+"b": "Die Vergabe von IT-Auftraegen an lokale Dienstleister im Inland",
+"c": "Die Rueckverlagerung zuvor ausgelagerter IT-Aufgaben ins eigene Unternehmen",
+"d": "Die Auslagerung von Aufgaben an Cloud-Anbieter mit Standort im selben Land"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Offshoring bezeichnet das Outsourcing ins Ausland, oft um Kostenvorteile zu nutzen. Dabei werden IT-Dienstleistungen von einem auslaendischen Anbieter erbracht. (Die Rueckholung waere Backsourcing, lokale Vergabe ist kein Offshoring.)"
+},
+{
+"id": "18",
+"question": "Was ist mit Multi-Sourcing gemeint?",
+"choices": {
+"a": "Der Einsatz mehrerer externer Dienstleister gleichzeitig, um unterschiedliche IT-Leistungen abzudecken",
+"b": "Die Beschraenkung auf einen einzigen Cloud-Anbieter fuer alle IT-Services",
+"c": "Der Mix verschiedener Sourcing-Strategien (z.B. Outsourcing mancher Bereiche, Eigenbetrieb anderer)",
+"d": "Das Outsourcing ins nahegelegene Ausland (Nearshoring)"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Multi-Sourcing bedeutet, dass ein Unternehmen seine IT-Services auf mehrere Anbieter verteilt und je nach Bereich unterschiedliche Sourcing-Modelle anwendet. So koennen etwa kritische Systeme intern bleiben, waehrend andere an verschiedene Spezialisten ausgelagert werden. Es ist das Gegenteil von Single-Sourcing (nur ein Anbieter)."
+},
+{
+"id": "19",
+"question": "Was bezeichnet man als Backsourcing im IT-Bereich?",
+"choices": {
+"a": "Die Rueckholung zuvor ausgelagerter IT-Funktionen ins eigene Unternehmen",
+"b": "Den Wechsel von einem externen Outsourcing-Provider zu einem anderen",
+"c": "Die Auslagerung von IT-Dienstleistungen an einen Cloud-Anbieter",
+"d": "Die komplette Abgabe aller IT-Aktivitaeten an einen Generalunternehmer"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Backsourcing bedeutet, dass ein Unternehmen vormals ausgelagerte IT-Aufgaben wieder selbst intern uebernimmt. Es handelt sich also um das Zurueckholen der ausgelagerten Leistungen. Ein Provider-Wechsel ist kein Backsourcing, und Outsourcing selbst ist das Gegenteil davon."
+},
+{
+"id": "20",
+"question": "Welche der folgenden sind grundlegende Eigenschaften des Cloud-Computing nach NIST?",
+"choices": {
+"a": "On-Demand Self-Service",
+"b": "Broad Network Access",
+"c": "Dedizierte Hardware fuer jeden Nutzer",
+"d": "Rapid Elasticity",
+"e": "Resource Pooling"
+},
+"correct_answers": [
+"a",
+"b",
+"d",
+"e"
+],
+"explanation": "Nach NIST zeichnen sich Cloud-Angebote durch Eigenschaften wie bedarfsgesteuerte Selbstbedienung (On-Demand Self-Service), breiten Netzwerkzugang, Pooling der Ressourcen (Mehrmandantenprinzip) und schnelle Elastizitaet/Skalierbarkeit aus. Dass jedem Nutzer dedizierte Hardware zugewiesen wird, ist kein Cloud-Merkmal - im Gegenteil, Ressourcen werden gerade gemeinsam genutzt."
+},
+{
+"id": "21",
+"question": "Welche der folgenden Angebote zaehlen zu den Cloud-Service-Modellen?",
+"choices": {
+"a": "Infrastructure as a Service (IaaS)",
+"b": "Platform as a Service (PaaS)",
+"c": "Hardware as a Service (HaaS)",
+"d": "Software as a Service (SaaS)"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "Die drei klassischen Cloud-Service-Modelle sind IaaS (z.B. Bereitstellung von virtuellen Servern), PaaS (Bereitstellung von Laufzeitumgebungen/Plattformen) und SaaS (Bereitstellung von fertigen Anwendungen ueber das Internet). Hardware as a Service ist kein gaengiges Modell (die Hardware-Ressourcen fallen unter IaaS)."
+},
+{
+"id": "22",
+"question": "Welche Cloud-Bereitstellungsmodelle (Cloud-Deployment-Modelle) gibt es?",
+"choices": {
+"a": "Private Cloud",
+"b": "Community Cloud",
+"c": "Hybrid Cloud",
+"d": "Public Cloud",
+"e": "Distributed Cloud"
+},
+"correct_answers": [
+"a",
+"b",
+"c",
+"d"
+],
+"explanation": "Die etablierten Cloud-Deployment-Modelle sind Private Cloud (unternehmenseigene Cloud), Public Cloud (offene, oeffentliche Cloud-Dienste), Community Cloud (Cloud fuer eine bestimmte Gemeinschaft) und Hybrid Cloud (Kombination aus Private und Public Cloud). Distributed Cloud ist kein klassisches Modell im NIST-Sinne."
+},
+{
+"id": "23",
+"question": "Welcher Vorteil kann durch den Einsatz von Cloud-Computing erzielt werden?",
+"choices": {
+"a": "Reduzierung von IT-Kosten durch flexible, bedarfsgerechte Ressourcen",
+"b": "Vollstaendige Eliminierung aller Sicherheitsrisiken",
+"c": "Schnellere Bereitstellung neuer IT-Services",
+"d": "Staerkere Abhaengigkeit von eigener Hardware vor Ort"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Cloud Computing erlaubt es, IT-Ressourcen bei Bedarf zu- oder abzuschalten, was zu Kosteneinsparungen fuehrt, und neue Dienste koennen viel schneller bereitgestellt werden. Sicherheitsrisiken verschwinden dadurch nicht vollstaendig, und die Abhaengigkeit von lokaler Hardware nimmt eher ab, nicht zu."
+},
+{
+"id": "24",
+"question": "Warum ist eine Cloud-Strategie fuer ein Unternehmen wichtig?",
+"choices": {
+"a": "Um Cloud-Initiativen mit den Unternehmenszielen und Compliance-Vorgaben in Einklang zu bringen",
+"b": "Damit Cloud-Einfuehrungen spontan und ohne Planung erfolgen koennen",
+"c": "Weil dadurch Anbieter-Praeferenzen und Budgets fruehzeitig festgelegt werden koennen",
+"d": "Damit die IT-Abteilung Cloud-Projekte ohne Abstimmung durchfuehren kann"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Eine Cloud-Strategie stellt sicher, dass der Einsatz von Cloud-Diensten die Gesamtziele des Unternehmens unterstuetzt und regulatorische Vorgaben eingehalten werden. Ausserdem koennen darin bereits Praeferenzen fuer bestimmte Cloud-Anbieter und Budgets definiert werden. Spontane, unkoordinierte Einfuehrungen sind dagegen riskant."
+},
+{
+"id": "25",
+"question": "Welche Ziele verfolgt ein Cloud Readiness Assessment vor einer Cloud-Migration?",
+"choices": {
+"a": "Volle Transparenz ueber die bestehende Applikationslandschaft herstellen",
+"b": "Abhaengigkeiten und Interaktionen zwischen Systemen identifizieren",
+"c": "Sicherheitsanforderungen und Performance-Beduerfnisse bewerten",
+"d": "Versteckte Optimierungspotenziale (Performance, Kosten) aufzeigen",
+"e": "Bestehende Anwendungen ohne Analyse direkt migrieren"
+},
+"correct_answers": [
+"a",
+"b",
+"c",
+"d"
+],
+"explanation": "Ein Cloud Readiness Assessment schafft Transparenz ueber alle Anwendungen und ihre Infrastruktur, deckt Abhaengigkeiten zwischen Komponenten auf, bewertet die erforderlichen Sicherheitsaspekte und identifiziert Moeglichkeiten zur Performance-Optimierung sowie Kosteneffizienz. Dadurch kann entschieden werden, wie migrationsbereit die Umgebung ist. Es geht gerade nicht darum, unvorbereitet zu migrieren."
+},
+{
+"id": "26",
+"question": "Wozu wird die Kennzahl Total Cost of Ownership (TCO) herangezogen?",
+"choices": {
+"a": "Um alle direkten und indirekten IT-Kosten zu erfassen und versteckte Kosten sichtbar zu machen",
+"b": "Um ausschliesslich die Anschaffungskosten fuer neue Hardware zu berechnen",
+"c": "Um die wahren Gesamt-IT-Kosten eines Services oder Systems zu ermitteln",
+"d": "Um die Produktivitaet der IT-Mitarbeiter zu messen"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Die TCO-Analyse dient dazu, neben den offensichtlichen direkten Kosten auch schwer sichtbare indirekte Kosten von IT-Arbeitsplaetzen und Systemen aufzudecken. Damit liefert sie ein Gesamtbild der IT-Kosten. Es geht nicht nur um Anschaffungskosten, und die Mitarbeiterproduktivitaet ist nicht Gegenstand des TCO."
+},
+{
+"id": "27",
+"question": "Was misst der Return on Investment (ROI) im Kontext von IT-Initiativen?",
+"choices": {
+"a": "Die Rentabilitaet bzw. den wirtschaftlichen Nutzen einer Investition",
+"b": "Die technische Zuverlaessigkeit einer Cloud-Loesung",
+"c": "Das Verhaeltnis von Gewinn/Ersparnis zu den investierten Kosten",
+"d": "Die Anzahl der Anwender einer neuen Software"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Der ROI gibt an, wie profitabel eine gettaetigte Investition ist. Er berechnet sich im Kern aus dem Verhaeltnis des erzielten Nutzens (z.B. Kostenersparnisse, Ertragssteigerungen) zu den Aufwendungen. Technische Zuverlaessigkeit oder Nutzerzahlen sind davon unabhaengig."
+},
+{
+"id": "28",
+"question": "Was ist der Unterschied zwischen CAPEX und OPEX im IT-Umfeld?",
+"choices": {
+"a": "CAPEX sind Investitionsausgaben fuer langlebige Anschaffungen, OPEX sind laufende Betriebsausgaben",
+"b": "CAPEX umfasst nur Personalkosten, OPEX nur Sachkosten",
+"c": "Durch Cloud-Loesungen koennen vormals CAPEX-Kosten in OPEX ueberfuehrt werden",
+"d": "OPEX fallen nur einmalig an, CAPEX fallen kontinuierlich an"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "CAPEX (Capital Expenditures) sind einmalige Investitionskosten, etwa fuer den Kauf von Hardware oder Lizenzen. OPEX (Operational Expenditures) sind laufende Betriebskosten (z.B. monatliche Gebuehren). Die Nutzung von Cloud-Diensten wandelt oft bisherige CAPEX (etwa Serverkauf) in OPEX (Miete/Abonnement) um. Personalkosten/Sachkosten oder Frequenz des Anfalls sind in dieser Unterscheidung nicht gemeint."
+},
+{
+"id": "29",
+"question": "Von welcher Institution stammt die bekannte Definition der 5 wesentlichen Cloud-Merkmale?",
+"choices": {
+"a": "National Institute of Standards and Technology (NIST)",
+"b": "International Organization for Standardization (ISO)",
+"c": "Bundesamt fuer Sicherheit in der Informationstechnik (BSI)",
+"d": "IEEE (Institute of Electrical and Electronics Engineers)"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Die weit verbreitete Standard-Definition der Cloud-Eigenschaften (On-Demand Self-Service, Broad Network Access, usw.) stammt vom US-amerikanischen National Institute of Standards and Technology (NIST). ISO und BSI haben auch Publikationen zu Cloud, aber die NIST-Definition ist gemeint."
+},
+{
+"id": "30",
+"question": "Welcher Unterschied besteht zwischen Infrastructure as a Service (IaaS) und Software as a Service (SaaS)?",
+"choices": {
+"a": "Bei IaaS verwaltet der Kunde unter anderem das Betriebssystem selbst, bei SaaS stellt der Anbieter eine fertige Anwendung bereit",
+"b": "SaaS stellt nur Hardware-Ressourcen bereit, IaaS liefert fertige Software",
+"c": "Bei SaaS muss der Kunde die Software selbst installieren, bei IaaS nicht",
+"d": "IaaS beinhaltet kein Netzwerkzugang, waehrend SaaS ueber das Internet bereitgestellt wird"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Bei IaaS mietet der Kunde Infrastruktur (z.B. virtuelle Server) und kuemmert sich um das darauf laufende System (Betriebssystem, Anwendungen) weitgehend selbst. Bei SaaS hingegen liefert der Anbieter eine vollstaendige Anwendungssoftware, die der Kunde nur noch nutzen muss. Die anderen Aussagen sind falsch: SaaS bietet Anwendungen, und dort muss der Kunde nichts selbst installieren."
+},
+{
+"id": "31",
+"question": "Welche der folgenden Dienste sind Beispiele fuer Software as a Service (SaaS)?",
+"choices": {
+"a": "Microsoft 365 (Office Cloud-Angebot)",
+"b": "Salesforce CRM",
+"c": "Amazon EC2",
+"d": "Google Workspace (G Suite)"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "SaaS bezeichnet cloudbasierte Anwendungssoftware. Beispiele: Microsoft 365 (Office aus der Cloud), Salesforce (Cloud-CRM) oder Google Workspace. Amazon EC2 ist hingegen ein IaaS-Service (virtuelle Maschinen)."
+},
+{
+"id": "32",
+"question": "Welche Angebote sind Beispiele fuer Platform as a Service (PaaS)?",
+"choices": {
+"a": "Google App Engine",
+"b": "Heroku",
+"c": "Amazon S3 (Speicherdienst)",
+"d": "Microsoft Azure App Service"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "PaaS bietet Entwicklern eine Plattform/Umgebung, um eigene Anwendungen zu betreiben. Beispielsweise sind Google App Engine, Heroku oder Azure App Service solche PaaS-Angebote. Amazon S3 ist dagegen ein Cloud-Speicherdienst und zaehlt zu IaaS."
+},
+{
+"id": "33",
+"question": "Welche Angebote zaehlen zu Infrastructure as a Service (IaaS)?",
+"choices": {
+"a": "Amazon EC2",
+"b": "Microsoft Azure Virtual Machines",
+"c": "Google Compute Engine",
+"d": "SAP SuccessFactors"
+},
+"correct_answers": [
+"a",
+"b",
+"c"
+],
+"explanation": "IaaS umfasst die Bereitstellung von Infrastrukturressourcen wie Rechenleistung, Speicher etc. Beispiele: Amazon EC2, Azure VM, und Google Compute Engine (virtuelle Instanzen). SAP SuccessFactors hingegen ist eine SaaS-Loesung (HR-Software aus der Cloud)."
+},
+{
+"id": "34",
+"question": "Welches Risiko oder welche Herausforderung besteht bei der Cloud-Nutzung?",
+"choices": {
+"a": "Einhaltung von Datenschutz und Compliance-Vorgaben",
+"b": "Abhaengigkeit von einer stabilen Internetverbindung",
+"c": "Unbegrenzte kostenlose Nutzung von Cloud-Ressourcen",
+"d": "Geringere Flexibilitaet der IT-Infrastruktur"
+},
+"correct_answers": [
+"a",
+"b"
+],
+"explanation": "Unternehmen muessen bei Cloud-Einsatz besonders auf Datenschutz/Compliance (z.B. Datenstandorte, rechtliche Vorgaben) achten und sind darauf angewiesen, dass die Internetanbindung performant und stabil ist. Cloud-Ressourcen sind zwar flexibel, aber nicht kostenlos unbegrenzt verfuegbar - sie verursachen Kosten nach Nutzung."
+},
+{
+"id": "35",
+"question": "Was versteht man unter einer Hybrid Cloud?",
+"choices": {
+"a": "Eine Kombination aus eigener Private Cloud und Public-Cloud-Diensten",
+"b": "Die gleichzeitige Nutzung mehrerer oeffentlicher Cloud-Anbieter ohne eigene IT",
+"c": "Den gemischten Betrieb von Anwendungen teils auf eigener Infrastruktur, teils in der Cloud",
+"d": "Die ausschliessliche Nutzung eines einzelnen Rechenzentrums"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Eine Hybrid Cloud verbindet eine private Cloud bzw. On-Premises-Infrastruktur mit Public-Cloud-Services zu einer integrierten Umgebung. Teile der IT laufen intern, andere beim Cloud-Provider. Es ist nicht einfach die Nutzung mehrerer Clouds (das waere Multi-Cloud) und beschraenkt sich auch nicht auf ein einziges Rechenzentrum."
+},
+{
+"id": "36",
+"question": "Was ermoeglicht das Cloud-Merkmal 'On-Demand Self-Service'?",
+"choices": {
+"a": "Kunden koennen selbststaendig u\u0308ber ein Web-Portal bei Bedarf Services und Ressourcen buchen",
+"b": "Ressourcen muessen vom Cloud-Anbieter manuell fu\u0308r jeden Nutzer eingerichtet werden",
+"c": "Es entstehen lange Wartezeiten zwischen Anforderung und Bereitstellung einer Ressource",
+"d": "Benutzer koennen ohne Anbieterinteraktion Rechenleistung oder Speicher dynamisch bereitstellen"
+},
+"correct_answers": [
+"a",
+"d"
+],
+"explanation": "On-Demand Self-Service bedeutet, dass ein Nutzer bei Bedarf einseitig (typischerweise u\u0308ber ein Portal) Dienste anfordern und sofort nutzen kann, ohne dass der Provider manuell eingreifen muss. Dadurch entfallen lange Wartezeiten auf neue Ressourcen."
+},
+{
+"id": "37",
+"question": "Was bedeutet 'Measured Service' im Zusammenhang mit Cloud Computing?",
+"choices": {
+"a": "Die Ressourcennutzung wird laufend gemessen und kann nach Verbrauch abgerechnet werden",
+"b": "Cloud-Services werden zum Pauschal-Festpreis angeboten",
+"c": "Der Kunde erha\u0308lt Transparenz u\u0308ber seinen Ressourcenverbrauch durch Monitoring",
+"d": "Der Anbieter kann die Leistungen bei geringer Nutzung automatisch reduzieren"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Measured Service besagt, dass die Cloud-Plattform die Nutzung der Ressourcen automatisch erfasst und u\u0308berwacht. Dadurch koennen sowohl Kunde als auch Anbieter die Auslastung einsehen und nutzungsbasiert abgerechnet wird. Es handelt sich nicht um einen Festpreis-Service."
+},
+{
+"id": "38",
+"question": "Was versteht man unter 'Resource Pooling' im Cloud-Kontext?",
+"choices": {
+"a": "Der Cloud-Anbieter legt seine Rechenressourcen in einem Pool zusammen und teilt sie dynamisch verschiedenen Kunden zu",
+"b": "Jeder Cloud-Kunde erha\u0308lt dedizierte Hardware, die nur er alleine nutzt",
+"c": "Ressourcen wie Speicher oder CPU werden bei Bedarf aus einem gemeinsamen Pool bereitgestellt",
+"d": "Kunden mu\u0308ssen ihre ungenutzten Ressourcen untereinander austauschen"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Resource Pooling bedeutet, dass der Provider seine Infrastruktur in einem gemeinsamen Ressourcen-Pool zusammenfasst, aus dem die einzelnen Nutzer je nach Bedarf bedient werden (Mehrmandantenprinzip). Die Kunden teilen sich also physische Ressourcen, anstatt dedizierte Hardware zu erhalten. Ein direkter Ressourcentausch zwischen Kunden findet nicht statt."
+},
+{
+"id": "39",
+"question": "Wofuer steht das Cloud-Merkmal 'Rapid Elasticity'?",
+"choices": {
+"a": "Ressourcen lassen sich sehr schnell und flexibel an den aktuellen Bedarf anpassen (hoch- oder herunterskalieren)",
+"b": "Leistungsaenderungen erfolgen nur mit erheblicher Verzoegerung",
+"c": "Cloud-Systeme erzwingen immer eine Ueberprovisionierung von Ressourcen",
+"d": "Aus Nutzersicht steht nahezu beliebig skalierbare Kapazitaet zur Verfuegung"
+},
+"correct_answers": [
+"a",
+"d"
+],
+"explanation": "Rapid Elasticity bedeutet, dass Cloud-Ressourcen praktisch in Echtzeit nach oben oder unten skaliert werden koennen, um Lastschwankungen auszugleichen. Fuer den Anwender wirkt es, als stu\u0308nden endlos skalierbare Ressourcen bereit. In Wirklichkeit findet natu\u0308rlich eine Zuteilung aus dem Pool statt, aber sehr schnell. Eine Verzoegerung oder starre Ueberprovisionierung ist gerade nicht noetig."
+},
+{
+"id": "40",
+"question": "Was bedeutet 'Broad Network Access' bei Cloud-Services?",
+"choices": {
+"a": "Cloud-Dienste sind ueber ein Netzwerk (z.B. Internet) mit standardisierten Methoden breit verfuegbar",
+"b": "Cloud-Services funktionieren nur im lokalen Firmennetz",
+"c": "Der Zugriff ist auf bestimmte, proprietaere Endgeraete beschraenkt",
+"d": "Nutzer koennen von unterschiedlichen Standorten und Geraetetypen auf die Services zugreifen"
+},
+"correct_answers": [
+"a",
+"d"
+],
+"explanation": "Broad Network Access besagt, dass Cloud-Angebote ueber das Netz (typischerweise das Internet) erreichbar sind und mit verschiedenen Clients (PC, Mobile, etc.) genutzt werden koennen. Sie sind also nicht auf das lokale Netzwerk oder spezielle Endgeraete begrenzt."
+},
+{
+"id": "41",
+"question": "Warum ist ein effizientes IT-Vertragsmanagement fuer Unternehmen wichtig?",
+"choices": {
+"a": "Damit Vertraege optimal gestaltet und an die Unternehmensstrategie angepasst werden koennen",
+"b": "Um sicherzustellen, dass Vertragsinhalte auffindbar und Fristen eingehalten werden",
+"c": "Weil Vertraege nach Unterzeichnung keiner weiteren Beachtung beduerfen",
+"d": "Damit nur die Rechtsabteilung alleine alle IT-Vertraege verwaltet"
+},
+"correct_answers": [
+"a",
+"b"
+],
+"explanation": "Vertragsmanagement stellt sicher, dass IT-Vertraege optimal verhandelt und gestaltet werden und den Unternehmenszielen entsprechen. Es sorgt auch fuer Transparenz (Vertragsdokumentation) und dass Termine (z.B. Kuendigungsfristen) nicht verpasst werden. Vertraege brauchen ueber ihre Laufzeit hinweg aktive Ueberwachung; sie einfach abzulegen, reicht nicht."
+},
+{
+"id": "42",
+"question": "Welche Vertraege zaehlen zu den Veraeusserungsvertraegen im Schweizer Obligationenrecht?",
+"choices": {
+"a": "Kaufvertrag",
+"b": "Tauschvertrag",
+"c": "Mietvertrag",
+"d": "Schenkungsvertrag"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "Zu den Veraeusserungsvertraegen gehoeren der Kaufvertrag, der Tauschvertrag und die Schenkung. Ein Mietvertrag ist hingegen ein Gebrauchsueberlassungsvertrag."
+},
+{
+"id": "43",
+"question": "Warum gilt ein Outsourcing-Vertrag oft als sogenannter Innominatvertrag?",
+"choices": {
+"a": "Weil er Elemente verschiedener gesetzlich geregelter Vertragstypen (Kauf, Miete, Werk etc.) kombiniert",
+"b": "Weil Outsourcing im Gesetz klar als eigener Vertragstyp definiert ist",
+"c": "Weil er ausschliesslich auf Standardvertragsvorlagen basiert",
+"d": "Weil ein Outsourcing-Vertrag in jedem Fall ungueltig ist"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Outsourcing-Vertraege enthalten meist Bestandteile unterschiedlicher Vertragsarten (z.B. Miet-, Kauf-, Werkvertrags- und Lizenz-Elemente). Daher passen sie in kein einzelnes gesetzliches Vertragsschema und werden als Innominatvertraege (nicht namentlich gesetzlich geregelt) angesehen."
+},
+{
+"id": "44",
+"question": "Wie ist ein Outsourcing-Vertrag typischerweise strukturiert?",
+"choices": {
+"a": "Durch einen Rahmenvertrag als allgemeine Grundlage sowie dazugehoerige Einzelvertraege und Anlagen",
+"b": "Als ein einziger Gesamtvertrag ohne untergliederte Bestandteile",
+"c": "Nur muendliche Absprachen statt schriftlicher Vertraege, um flexibel zu bleiben",
+"d": "Separate Vertraege pro Service ohne einen gemeinsamen Rahmen"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Bewaehrt hat sich ein modularer Aufbau: Ein uebergeordneter Rahmenvertrag regelt die allgemeinen Bestimmungen der Zusammenarbeit, und fuer einzelne Services gibt es spezifische Einzelvertraege samt Leistungsbeschreibungen und SLA-Anlagen. Alles in einem und muendlich waere unueblich und riskant."
+},
+{
+"id": "45",
+"question": "Worum handelt es sich bei einem Service Level Agreement (SLA)?",
+"choices": {
+"a": "Um eine Vereinbarung zwischen Auftraggeber und Dienstleister ueber wiederkehrende IT-Leistungen und deren Qualitaetsmerkmale",
+"b": "Um einen rein internen Vertrag zwischen IT-Abteilung und Fachabteilung",
+"c": "Um einen gesetzlich normierten Standardvertrag fuer IT-Dienstleistungen",
+"d": "Um ein Verzeichnis aller IT-Komponenten eines Unternehmens"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Ein SLA ist eine Leistungsvereinbarung zwischen einem IT-Dienstleister und seinem Kunden (Auftraggeber). Darin werden die zu erbringenden Services sowie Messgroessen und Verantwortlichkeiten festgelegt. Es handelt sich nicht um einen internen OLA oder ein gesetzliches Vertragsmuster."
+},
+{
+"id": "46",
+"question": "Worin unterscheidet sich ein Operational Level Agreement (OLA) von einem SLA?",
+"choices": {
+"a": "Ein OLA wird zwischen internen Einheiten (z.B. IT-Abteilung und Fachabteilung) geschlossen, waehrend ein SLA mit einem externen Kunden bzw. Dienstleister vereinbart wird",
+"b": "Es gibt keinen Unterschied – OLA und SLA bezeichnen dasselbe",
+"c": "Ein SLA gilt nur fuer Cloud-Services, ein OLA nur fuer On-Premises-Services",
+"d": "Ein OLA richtet sich an externe Endkunden, ein SLA hingegen an interne Support-Teams"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Ein Operational Level Agreement (OLA) ist eine interne Service-Vereinbarung innerhalb des Unternehmens – beispielsweise zwischen zwei Abteilungen, die gemeinsam einen SLA erfuellen muessen. Ein SLA hingegen wird zwischen Unternehmen und einem externen Service-Provider bzw. Kunden geschlossen. OLA und SLA sind also nicht identisch."
+},
+{
+"id": "47",
+"question": "Welche Inhalte sind typischerweise in einem Service Level Agreement (SLA) festgehalten?",
+"choices": {
+"a": "Beschreibung der vereinbarten Dienstleistung und zugehoerige Leistungskennzahlen (KPIs)",
+"b": "Verantwortlichkeiten des Dienstleisters und des Kunden",
+"c": "Eskalationsverfahren bei Stoerungen und nicht eingehaltener Service-Qualitaet",
+"d": "Muendliche Nebenabreden, die nicht dokumentiert werden",
+"e": "Vertragsstrafen (Poenalen) bei Nichteinhaltung der zugesicherten Leistung"
+},
+"correct_answers": [
+"a",
+"b",
+"c",
+"e"
+],
+"explanation": "Ein SLA enthaelt in der Regel eine Leistungsbeschreibung mit definierten Kennzahlen (z.B. Verfuegbarkeit, Reaktionszeiten), legt die Verantwortlichkeiten von Anbieter und Kunde fest und beschreibt Eskalationsprozeduren. Zudem werden oft Vertragsstrafen bei Nichteinhaltung vereinbartfile-jwnymhpvy9u1ybhnjujsgj,. Muendliche, undokumentierte Nebenabreden gehoeren nicht in ein SLA."
+},
+{
+"id": "48",
+"question": "Wofuer wird ein Underpinning Contract (UC) abgeschlossen?",
+"choices": {
+"a": "Fuer Leistungen externer Drittanbieter, die zur Erfuellung eines SLA erforderlich sind",
+"b": "Fuer interne Service-Abmachungen zwischen zwei Abteilungen",
+"c": "Als Ersatz fuer ein SLA direkt mit dem Endkunden",
+"d": "Ausschliesslich fuer Cloud-Dienste innerhalb desselben Unternehmens"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Ein Underpinning Contract ist ein Vertrag mit einem externen Lieferanten, der notwendig ist, um die dem Endkunden zugesicherten SLA-Leistungen zu erbringen. Er unterstuetzt also das SLA. OLAs sind interne Abmachungen, und ein UC ersetzt nicht das SLA mit dem Kunden."
+},
+{
+"id": "49",
+"question": "Welche Abteilung ist typischerweise NICHT direkt in das unternehmensweite IT-Vertragsmanagement eingebunden?",
+"choices": {
+"a": "IT-Abteilung",
+"b": "Rechtsabteilung",
+"c": "Marketing-Abteilung",
+"d": "Einkauf/Beschaffung"
+},
+"correct_answers": [
+"c"
+],
+"explanation": "Ein effizientes Vertragsmanagement erfordert die bereichsuebergreifende Zusammenarbeit verschiedener Stellen: u.a. IT, Rechtswesen, Einkauf, Management und ggf. Fachabteilungen. Die Marketing-Abteilung spielt hierbei in der Regel keine zentrale Rolle."
+},
+{
+"id": "50",
+"question": "Warum muss das Vertragsmanagement auch nach Abschluss eines Outsourcing-Vertrags fortgefuehrt werden?",
+"choices": {
+"a": "Um auf Vertragsverlaengerungen, moegliche Providerwechsel oder ein Insourcing vorbereitet zu sein",
+"b": "Nach der Unterschrift bedarf ein Vertrag keiner Ueberwachung mehr",
+"c": "Weil ohne staendige Kontrolle alle Service-Level automatisch eingehalten werden",
+"d": "Um die Leistungserbringung laufend zu ueberwachen und bei Abweichungen gegensteuern zu koennen"
+},
+"correct_answers": [
+"a",
+"d"
+],
+"explanation": "Nach dem Vertragsabschluss muessen die vertraglich vereinbarten Leistungen und SLAs regelmaessig ueberwacht werden, um bei Problemen reagieren zu koennen. Zudem sollte man rechtzeitig an Vertragsverlaengerungen oder einen moeglichen Wechsel des Providers (oder Ru\u0308ckholung von Leistungen) denke. Ein Vertrag laeuft nicht von selbst problemlos, sondern braucht aktives Management."
+},
+{
+"id": "51",
+"question": "Welche Vertraege zaehlen zu den Dienstleistungsvertraegen?",
+"choices": {
+"a": "Arbeitsvertrag",
+"b": "Werkvertrag",
+"c": "Kaufvertrag",
+"d": "Auftrag (Dienstleistungsvertrag im engeren Sinne)"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "Dienstleistungsvertraege regeln die Erbringung von Diensten: Dazu zaehlen z.B. Arbeitsvertraege (Anstellung), Auftraege nach OR (Dienstvertrag, z.B. Beratungsvertrag) und Werkvertraege (Erfolg geschuldet, z.B. Softwareentwicklung als Werk). Ein Kaufvertrag ist kein Dienstvertrag, sondern ein Veraeusserungsvertrag."
+},
+{
+"id": "52",
+"question": "Welche Vertraege sind Beispiele fuer Gebrauchsueberlassungsvertraege?",
+"choices": {
+"a": "Mietvertrag",
+"b": "Pachtvertrag",
+"c": "Darlehensvertrag",
+"d": "Werkvertrag"
+},
+"correct_answers": [
+"a",
+"b",
+"c"
+],
+"explanation": "Miete, Pacht und Darlehen sind typische Gebrauchsueberlassungsvertraege (Ueberlassung einer Sache oder Geldes zum Gebrauch bzw. Nutzung auf Zeit). Ein Werkvertrag hingegen ist ein Dienstleistungsvertrag."
+},
+{
+"id": "53",
+"question": "Warum sollte im laufenden Provider-Management regelmaessig Benchmarking durchgefuehrt werden?",
+"choices": {
+"a": "Um Leistungen und Preise des aktuellen IT-Providers mit dem Markt zu vergleichen",
+"b": "Um bei Abweichungen Verbesserungsmoeglichkeiten zu identifizieren",
+"c": "Damit der Provider garantiert bei jedem Benchmark verliert",
+"d": "Um unmittelbar einen Providerwechsel vorzunehmen"
+},
+"correct_answers": [
+"a",
+"b"
+],
+"explanation": "Durch Benchmarking (Vergleich mit anderen Anbietern bzw. Marktdaten) kann ein Unternehmen feststellen, ob sein Outsourcing-Provider noch kompetitiv ist und wo Potential fuer Verbesserungen besteht. Es dient der Leistungs- und Preisbewertung, aber nicht automatisch dazu, sofort den Anbieter zu wechseln."
+},
+{
+"id": "54",
+"question": "Wie sollte ein Kunde reagieren, wenn ein IT-Dienstleister die im SLA vereinbarte Leistung nicht einhaelt?",
+"choices": {
+"a": "Das im SLA definierte Eskalationsverfahren ausloesen",
+"b": "Vertragsstrafen (Poenalen) geltend machen, sofern vereinbart",
+"c": "Nichts unternehmen, da solche Abweichungen normal sind",
+"d": "Den Vertrag sofort kuendigen, ohne weitere Schritte"
+},
+"correct_answers": [
+"a",
+"b"
+],
+"explanation": "Verletzt der Anbieter die SLA-Vereinbarungen, sollte der Kunde gemaess SLA-Regelungen vorgehen: Also z.B. zunaechst eine Eskalation einleiten (Ansprechpartner informieren, Problem eskalieren) und – falls vorgesehen – Vertragsstrafen/Poenalen einfordern. Einfach ignorieren waere genauso falsch wie sofortige Kuendigung ohne dem Anbieter die vertraglich vorgesehenen Chancen zur Nachbesserung zu geben."
+},
+{
+"id": "55",
+"question": "Wie wird der Begriff 'Risiko' im IT-Risikomanagement definiert?",
+"choices": {
+"a": "Als Unsicherheit bzw. moegliche Abweichung von einem erwarteten Zielwert mit negativen Folgen",
+"b": "Als garantiert eintretendes Stoerungsereignis im IT-Betrieb",
+"c": "Als positive Ueberraschung ohne negative Auswirkungen",
+"d": "Als rein finanzielles Problem ohne Einfluss auf die IT"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Ein Risiko ist eine Unsicherheit bzw. Gefahr, dass die tatsaechliche Entwicklung von den erwarteten Zielen abweichen kann und dadurch negative Auswirkungen entstehen. Es handelt sich also um ein potentielles Ereignis, nicht um ein garantiertes. Positive Abweichungen werden als Chancen bezeichnet."
+},
+{
+"id": "56",
+"question": "Was ist das Hauptziel des IT-Risikomanagements?",
+"choices": {
+"a": "Risiken durch geeignete Massnahmen auf ein akzeptables Mass zu begrenzen",
+"b": "Alle moeglichen Risiken vollstaendig zu eliminieren",
+"c": "Nur die positiven Chancen zu betrachten und Risiken zu ignorieren",
+"d": "Risiken bewusst zu verschweigen, um das Management nicht zu beunruhigen"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Das Risikomanagement zielt darauf ab, identifizierte Risiken durch Behandlungs-Massnahmen so weit zu reduzieren, dass das Restrisiko tragbar (akzeptabel) ist. Eine vollstaendige Eliminierung aller Risiken ist unrealistisch. Risiken zu ignorieren oder zu verheimlichen widerspricht dem Ziel."
+},
+{
+"id": "57",
+"question": "Wovon haengt die Hoehe (das Ausmass) eines Risikos ab?",
+"choices": {
+"a": "Von der Eintrittswahrscheinlichkeit des Ereignisses",
+"b": "Vom potenziellen Schadensausmass, falls das Ereignis eintritt",
+"c": "Von der Unternehmensgroesse allein",
+"d": "Von der aktuellen Stimmung im Management"
+},
+"correct_answers": [
+"a",
+"b"
+],
+"explanation": "Das Risiko eines Ereignisses wird im Wesentlichen durch zwei Faktoren bestimmt: die Wahrscheinlichkeit, mit der das Ereignis eintritt, und die erwartete Schadensho\u0308he, die es im Eintrittsfall verursacht. Diese Faktoren werden oft miteinander multipliziert oder in einer Risikomatrix abgetragen. Unternehmensgroesse oder Managementlaune sind hierfuer irrelevant."
+},
+{
+"id": "58",
+"question": "Welche Optionen zaehlen zu den klassischen Strategien im IT-Risikomanagement?",
+"choices": {
+"a": "Risiko vermeiden",
+"b": "Risiko reduzieren (mindern)",
+"c": "Risiko akzeptieren",
+"d": "Risiko transferieren (ueberwaelzen)",
+"e": "Risiko ignorieren"
+},
+"correct_answers": [
+"a",
+"b",
+"c",
+"d"
+],
+"explanation": "Typische Risikostrategien sind: Vermeidung (das Risiko gar nicht erst eingehen), Reduktion/Abmilderung durch Gegenmassnahmen, Akzeptanz (bewusst hinnehmen) oder Transfer (Uebertragung an Dritte, z.B. Versicherung). Ignorieren ist keine empfohlene Strategie."
+},
+{
+"id": "59",
+"question": "Wozu dient eine Risikomatrix im Risiko-Management?",
+"choices": {
+"a": "Zur uebersichtlichen Darstellung identifizierter Risiken nach deren Eintrittswahrscheinlichkeit und Schadenshohe",
+"b": "Zur alphabetischen Auflistung aller moeglichen Risiken",
+"c": "Als komplexes mathematisches Modell zur exakten Risikoberechnung",
+"d": "Als Software-Tool, das Risiken automatisch beseitigt"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Die Risikomatrix dient der graphischen Klassifizierung von Risiken in einem Koordinatensystem mit den Achsen Eintrittswahrscheinlichkeit (P) und Schadensausmass (S). Dadurch lassen sich Risiken einfach priorisieren. Es handelt sich nicht um eine alphabetische Liste oder ein magisches Tool, sondern um ein einfaches Visualisierungswerkzeug."
+},
+{
+"id": "60",
+"question": "Welche Standards helfen bei der systematischen Klassifizierung und Behandlung von IT-Risiken?",
+"choices": {
+"a": "ISO/IEC 27001 (Informationssicherheits-Standard)",
+"b": "BSI IT-Grundschutz Kataloge",
+"c": "COBIT Framework",
+"d": "Scrum-Framework"
+},
+"correct_answers": [
+"a",
+"b",
+"c"
+],
+"explanation": "Es gibt etablierte Methoden zur Kategorisierung von Risiken: z.B. das Informationssicherheits-Management nach ISO 27001, die IT-Grundschutz-Kataloge des BSI oder das Governance-Framework COBIT. Diese unterstuetzen dabei, Risiken zu systematisieren. Ein agiles Vorgehensmodell wie Scrum ist hingegen kein Risikostandard."
+},
+{
+"id": "61",
+"question": "Was ist mit Restrisiko gemeint?",
+"choices": {
+"a": "Das verbleibende Risiko, nachdem alle vorgesehenen Gegenmassnahmen umgesetzt wurden",
+"b": "Ein Risiko, das keine\u0300rlei Schaden verursachen kann",
+"c": "Das groesstmoegliche Risiko ueberhaupt",
+"d": "Das Risiko, das vor der Behandlung bestand"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Als Restrisiko bezeichnet man das verbleibende Risiko nach Umsetzung von Risikobehandlungs-Massnahmen. Es ist das Rest-Risiko, das man bewusst akzeptieren muss. Es ist nicht das groesste Risiko an sich und auch kein voellig harmloses Ereignis."
+},
+{
+"id": "62",
+"question": "Welches der folgenden ist KEIN zentrales Datenschutzrisiko bei Cloud-Nutzung?",
+"choices": {
+"a": "Intransparenz ueber Speicherorte und Zugriffswege der Daten",
+"b": "Kontrollverlust ueber die Daten durch den Auftraggeber",
+"c": "Volle Transparenz fuer den Kunden ueber die Datenverarbeitung",
+"d": "Juristische Komplexitaet durch verschiedene internationale Rechtsraeume"
+},
+"correct_answers": [
+"c"
+],
+"explanation": "Bei Cloud-Diensten bestehen Risiken wie mangelnde Transparenz, wo und wie die Daten gespeichert/verarbeitet werden, Kontrollverlust des Kunden ueber seine Daten sowie rechtliche Probleme, da unterschiedliche Datenschutzgesetze (z.B. nationales Recht vs. DSGVO) und fehlende Durchsetzbarkeit international greifen. Volle Transparenz und Kontrolle sind eben gerade nicht garantiert – dies waere kein Risiko, sondern idealer Zustand."
+},
+{
+"id": "63",
+"question": "Worin unterscheidet sich ein IT-Sicherheitskonzept (IT-SiKo) von einem Informationssicherheits- und Datenschutzkonzept (ISDS)?",
+"choices": {
+"a": "IT-SiKo fokussiert auf den technischen Schutz der IT-Infrastruktur (z.B. vor Cyberangriffen), waehrend ISDS die organisatorischen und rechtlichen Massnahmen zum Schutz sensibler Informationen abdeckt",
+"b": "IT-SiKo kuemmert sich hauptsaechlich um Datenschutz-Fragen, ISDS um Firewalls und Netzwerksicherheit",
+"c": "Es gibt keinen Unterschied – beide Begriffe bezeichnen dasselbe",
+"d": "Ein ISDS-Konzept richtet sich nur an die IT-Abteilung, IT-SiKo ans gesamte Unternehmen"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Ein IT-Sicherheitskonzept adressiert primaer technische Schutzmassnahmen fuer IT-Systeme (z.B. gegen Malware, unbefugten Zugriff, Ausfaelle). Ein Informationssicherheits- und Datenschutzkonzept umfasst demgegenueber auch organisatorische, personelle und rechtliche Aspekte zum Schutz von Informationen und Daten im ganzen Unternehmen. Die beiden Konzepte ergaenzen sich, sind aber nicht identisch."
+},
+{
+"id": "64",
+"question": "Was wird im IT-Risikomanagement als Chance bezeichnet?",
+"choices": {
+"a": "Eine Abweichung vom erwarteten Ziel mit positiven Auswirkungen (Upside Risk)",
+"b": "Ein Risiko, das ohne Auswirkungen bleibt",
+"c": "Eine Situation, die garantiert eintritt und Schaden verursacht",
+"d": "Ein anderer Begriff fuer das gleiche wie Risiko"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Neben Risiken (negativen Abweichungen) definiert man im Risikomanagement auch Chancen: Das sind Abweichungen vom Erwartungswert, die positive Effekte haben koennen. Sie stehen den Risiken gegenueber. Risiko und Chance sind also unterschiedliche Aspekte der Unsicherheit."
+},
+{
+"id": "65",
+"question": "Welche Aussagen zur Planung einer Cloud-Migration treffen zu?",
+"choices": {
+"a": "Cloud-Anbieter-Praeferenzen sollte man bereits in der Strategiephase festlegen, um Compliance-Vorgaben und Budgets einzuhalten",
+"b": "Interne Cloud-Teams oder externe Berater koennen den Migrationsprozess unterstuetzen",
+"c": "Die Auswahl des Cloud-Anbieters erfolgt idealerweise erst nach Abschluss der Migration",
+"d": "Eine Vorauswahl von passenden Anbietern erleichtert Kostenkontrolle und Preisverhandlungen"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "Bereits bei der Cloud-Strategie sollte das Unternehmen bevorzugte Anbieter definieren, um die spaetere Auswahl einzugrenzen und Compliance- sowie Budgetvorgaben zu erfuellen. Fuer die Umsetzung einer komplexen Migration kann es hilfreich sein, interne Cloud-Experten oder externe Berater einzusetzen. Zudem hilft es, vorab eine Auswahl vertrauenswuerdiger Provider zu treffen, um Kostenkontrolle und Verhandlungsmacht zu behalten. Es waere fatal, den Anbieter erst nach der Migration festzulegen."
+},
+{
+"id": "66",
+"question": "Welche der folgenden Optionen gehoert NICHT zu den „6 R“ Migrationsstrategien fuer Applikationen?",
+"choices": {
+"a": "Rehost (Lift & Shift)",
+"b": "Refactor (Neugestaltung)",
+"c": "Retain (Behalten)",
+"d": "Reassign",
+"e": "Repurchase (Durch SaaS ersetzen)"
+},
+"correct_answers": [
+"d"
+],
+"explanation": "Zu den 6 gaengigen Cloud-Migrationsstrategien (6R) zaehlen beispielsweise: Rehost (1:1 verschieben), Refactor (Code anpassen), Replatform (geringf. Anpassungen), Repurchase (durch ein neues System/SaaS ersetzen), Retire (Stilllegen) und Retain (vorerst behalten). Reassign gehoert nicht dazu."
+},
+{
+"id": "67",
+"question": "Was ist das Hauptziel der Datenerhebungsphase (Discovery) bei einer Cloud-Transformation?",
+"choices": {
+"a": "Einen Applikationsverantwortlichen bestimmen und alle Informationen zur Anwendung und ihrem Umfeld sammeln",
+"b": "Bereits alle Anwendungen parallel in die Cloud migrieren",
+"c": "Die grundsaetzliche Machbarkeit der Cloud-Migration der Anwendung zu ueberpruefen",
+"d": "Ohne Analyse direkt mit der Umstellung beginnen"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "In der Discovery-Phase soll Transparenz auf Applikationsebene geschaffen werden. Man identifiziert einen Verantwortlichen und sammelt alle wichtigen Daten ueber die Anwendung (Konfiguration, Abhaengigkeiten, betroffene Bereiche). Zudem prueft man grundsaetzlich, ob die Anwendung Cloud-tauglich migriert werden kann (Machbarkeit, Einsparpotenzial, geeignete Anbieter). Eine Migration findet hier noch nicht statt."
+},
+{
+"id": "68",
+"question": "Welche Ueberlegungen werden in der Bewertungsphase (Assessment) einer Cloud-Migration typischerweise angestellt?",
+"choices": {
+"a": "Welche Cloud-Umgebung (public, private, hybrid) und welcher Anbieter fuer jede Anwendung geeignet sind",
+"b": "Welche Abhaengigkeiten und Verbindungen eine Anwendung zu anderen Systemen hat",
+"c": "Ob manche Anwendungen vorerst nicht migriert, sondern behalten (Retain) werden sollen",
+"d": "Ob der Aktienkurs des Cloud-Providers gestiegen ist"
+},
+"correct_answers": [
+"a",
+"b",
+"c"
+],
+"explanation": "Im Assessment wird fuer jede Anwendung die Cloud-Eignung beurteilt: Man klaert, welches Cloud-Modell (public, private, hybrid) und welcher Anbieter in Frage kommen, welche technischen Abhaengigkeiten bestehen und ob eine Anwendung eventuell nicht migriert, sondern beibehalten werden sollte . Der Aktienkurs des Anbieters spielt fuer die technische Migrationsentscheidung keine Rolle."
+},
+{
+"id": "69",
+"question": "Wozu dient eine Migrations-Roadmap im Cloud-Projekt?",
+"choices": {
+"a": "Als zentraler Ablaufplan fuer das Projektmanagement, der im Laufe der Migration fortlaufend aktualisiert und als Kommunikationsmittel genutzt wird",
+"b": "Zur detaillierten Beschreibung jeder einzelnen Anwendung",
+"c": "Um die Migration ohne jegliche Projektdokumentation durchzufuehren",
+"d": "Als Ersatz fuer ein professionelles Projektmanagement"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Die Migrations-Roadmap enthaelt die zeitliche und sachliche Planung der Cloud-Migration als Uebersicht. Sie wird kontinuierlich nachgefuehrt und dient dem Projektmanagement und der Abstimmung zwischen Beteiligten. Sie ersetzt nicht das Projektmanagement, sondern ist ein dessen Werkzeug und keine ausfuehrliche technische Dokumentation jeder Anwendung."
+},
+{
+"id": "70",
+"question": "Warum werden Applikationen bei der Cloud-Migrationsplanung zu Clustern zusammengefasst?",
+"choices": {
+"a": "Um Anwendungen mit gemeinsamen Merkmalen oder Abhaengigkeiten gebuendelt planen und migrieren zu koennen",
+"b": "Damit alle Anwendungen gleichzeitig migriert werden muessen",
+"c": "Um die Kommunikation und Kopplungen zwischen zusammenhaengenden Systemen zu beruecksichtigen",
+"d": "Um jede Anwendung isoliert und unabhaengig betrachten zu koennen"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Indem man Applikationen clustert (z.B. nach gemeinsam genutzten Komponenten, gemeinsamen Geschaeftsprozessen oder gleichen Verantwortlichen), kann man die Migration dieser zusammenhaengenden Gruppe abgestimmt planen. So werden Abhaengigkeiten und Schnittstellen beruecksichtigt. Ziel ist nicht, zwangslaufig alles gleichzeitig migrieren zu muessen, aber zusammengehoerige Systeme sollten koordiniert migriert werden."
+},
+{
+"id": "71",
+"question": "Wozu dient ein Cloud Center of Excellence (CCoE) im Unternehmen?",
+"choices": {
+"a": "Es buendelt Cloud-Know-how und definiert Standards sowie Best Practices fuer den Cloud-Einsatz",
+"b": "Es ersetzt die gesamte IT-Abteilung und outsourct diese komplett",
+"c": "Es unterstuetzt beim Provider-Management, bei Compliance-Pruefungen und Cloud-Strategie-Umsetzungen",
+"d": "Es ist nur fuer die Wartung der physischen Server im Rechenzentrum zustaendig"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Ein CCoE ist eine zentrale Einheit, die das Expertenwissen rund um Cloud-Technologien im Unternehmen vereint. Sie entwickelt Richtlinien/Standards, unterstuetzt die Fachbereiche bei Cloud-Projekten, achtet auf die Einhaltung von Compliance-Vorgaben und koordiniert das Provider- und Innovationsmanagement,Sie ersetzt nicht die IT-Abteilung, sondern arbeitet eng mit ihr zusammen."
+},
+{
+"id": "72",
+"question": "Warum werden umfangreiche Cloud-Migrationen haeufig iterativ in mehreren Durchlaeufen durchgefuehrt?",
+"choices": {
+"a": "Um schrittweise vorzugehen, Risiken zu minimieren und ggf. nachsteuern zu koennen",
+"b": "Weil Cloud-Migrationen prinzipiell nie enden",
+"c": "Um moeglichst viele Unterbrechungen im Betrieb zu erzeugen",
+"d": "Weil gesetzliche Vorschriften einen mehrstufigen Ansatz verlangen"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Bei komplexen Umgebungen macht man eine Migration meist in Wellen bzw. Teilschritten. So kann man gemachte Erfahrungen laufend einbringen und das Risiko fu\u0308r den laufenden Betrieb reduzieren. Ausserdem laesst sich der Erfolg jeder Phase vor Start der naechsten auswerten. Cloud-Migrationen koennen durchaus enden – Ziel ist ja gerade die erfolgreiche Umstellung."
+},
+{
+"id": "73",
+"question": "Ein Unternehmen plant, eine komplexe Altsystem-Anwendung in die Cloud zu migrieren. Was sollte es als erstes tun?",
+"choices": {
+"a": "Ein detailliertes Applikations- und Infrastruktur-Assessment (Cloud Readiness) durchfuehren",
+"b": "Die Anwendung ohne Zeitverzug direkt in die Cloud migrieren, um Zeit zu sparen",
+"c": "Die Anwendung abschalten und neu entwickeln, statt eine Analyse durchzufuehren",
+"d": "Erst nach der Migration evaluieren, welcher Cloud-Anbieter genutzt werden soll"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Bevor die eigentliche Migration startet, sollte ein fundiertes Cloud Readiness Assessment erfolgen, also eine Analyse der Applikation und ihrer Umgebung. Dadurch erkennt man fru\u0308hzeitig Risiken, Abhaengigkeiten und Anpassungsbedarf. Ohne diese Vorbereitung direkt migrieren zu wollen, ist riskant."
+},
+{
+"id": "74",
+"question": "Wie koennen spezielle Cloud-Management-Plattformen Unternehmen beim Betrieb von Cloud-Umgebungen unterstuetzen?",
+"choices": {
+"a": "Sie bieten einheitliche Tools, um hybride oder Multi-Cloud-Umgebungen zentral zu verwalten",
+"b": "Sie sind ueberfluessig, da in Cloud-Projekten ausschliesslich manuelle Prozesse genuegen",
+"c": "Sie helfen beim Kostenmanagement und beim Monitoring ueber verschiedene Cloud-Dienste hinweg",
+"d": "Sie ersetzen vollstaendig alle Sicherheitsmassnahmen des Unternehmens"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Fuer das Management komplexer Cloud-Landschaften gibt es Plattformen (Cloud-Management-Tools), die beispielsweise ein zentrales Dashboard fuer verschiedene Provider bieten, Monitoring- und Kostenanalyse-Funktionen bereitstellen und ITSM-Prozesse unterstuetzen. Manuelle Ad-hoc-Prozesse reichen in der Regel nicht aus, und natuerlich ersetzen solche Tools keine Security-Konzepte."
+},
+{
+"id": "75",
+"question": "Was versteht man unter Monitoring von Cloud-Systemen?",
+"choices": {
+"a": "Das kontinuierliche Messen, Sammeln und Analysieren von Systemdaten, um Leistung und SLA-Einhaltung zu ueberwachen",
+"b": "Die manuelle Beobachtung der Mitarbeiteraktivitaeten durch die IT-Abteilung",
+"c": "Eine einmalige Ueberpruefung der Systeme vor Inbetriebnahme",
+"d": "Die lueckenlose Video-Ueberwachung aller Serverraeume"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Monitoring umfasst das fortlaufende Erfassen und Auswerten von Informationen ueber die System- und Serviceleistung, um sicherzustellen, dass vereinbarte Leistungswerte und SLAs eingehalten werden. Es geht dabei nicht um Mitarbeiterueberwachung, sondern um technische Parameter, und es ist kein einmaliges Ereignis, sondern ein kontinuierlicher Prozess."
+},
+{
+"id": "76",
+"question": "Welchen Nutzen bietet ein effizientes Cloud-Monitoring?",
+"choices": {
+"a": "Fruehes Erkennen von Abweichungen und Stoerungen im Betrieb",
+"b": "Verbesserung der Systemleistung und Sicherheit durch zeitnahe Reaktion",
+"c": "Unterstuetzung bei der Ursachenanalyse von Problemen (Fehlerdiagnose)",
+"d": "Abschaffung aller anderen Sicherheitsmassnahmen"
+},
+"correct_answers": [
+"a",
+"b",
+"c"
+],
+"explanation": "Monitoring ermoeglicht es, Probleme fruehzeitig zu erkennen, was eine schnelle Einleitung von Gegenmassnahmen erlaubt. Dadurch koennen Verfuegbarkeit und Sicherheit des Systems verbessert werden. Ebenso liefert Monitoring Daten, um die Ursachen von Stoerungen gezielt zu analysieren. Andere Security-Massnahmen ersetzt es jedoch nicht, sondern ergaenzt sie."
+},
+{
+"id": "77",
+"question": "Welcher der folgenden Bereiche gehoert NICHT zu den typischen Schwerpunkten beim Cloud-Monitoring?",
+"choices": {
+"a": "Kapazitaets- und Ressourcenmanagement",
+"b": "SLA-Management",
+"c": "Catering-Management",
+"d": "Sicherheitsmanagement"
+},
+"correct_answers": [
+"c"
+],
+"explanation": "Typische Monitoring-Bereiche in Cloud-Umgebungen sind u.a. Kapazitaets-/Auslastungsmanagement, Ueberwachung von SLA-Kennwerten (Service Levels), Abrechnungs-/Nutzungsmonitoring sowie Performance-, Fehler- und Sicherheitsmonitoring. Catering (Verpflegung) ist offensichtlich kein Aspekt des IT-Monitorings."
+},
+{
+"id": "78",
+"question": "Worin besteht der Unterschied zwischen aktivem und passivem Monitoring?",
+"choices": {
+"a": "Aktives Monitoring schickt gezielt Testanfragen oder -daten an ein System, waehrend passives Monitoring lediglich den bestehenden Datenverkehr beobachtet",
+"b": "Passives Monitoring erzeugt mehr zusaetzliche Last auf das System als aktives Monitoring",
+"c": "Aktives Monitoring erfordert keinen Zugriff auf das System, passives schon",
+"d": "Passives Monitoring eignet sich nicht fuer Cloud-Systeme"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Beim aktiven Monitoring werden synthetische Transaktionen/Testabfragen generiert, um die Verfuegbarkeit oder Performance eines Dienstes zu pruefen. Beim passiven Monitoring werden nur die bereits im System ablaufenden Logs und Metriken mitgelesen und ausgewertet. Aktiv verursacht also zusaetzliche Last (passiv nicht) und beide Ansaetze haben Vor- und Nachteile."
+},
+{
+"id": "79",
+"question": "Welche Grundsatzfragen muessen bei der Konzeption eines Monitoring-Systems geklaert werden?",
+"choices": {
+"a": "Soll die Metrik-Erfassung aktiv (mit Testabfragen) oder passiv (durch Beobachtung) erfolgen?",
+"b": "An welchen Punkten des Systems sollen Messdaten erhoben werden?",
+"c": "Wer (Provider, Kunde oder Dritter) uebernimmt das Sammeln und Auswerten der Monitoring-Daten?",
+"d": "Welche Informationen sollen aus den gesammelten Metriken gewonnen werden?",
+"e": "Ob Monitoring ueberhaupt notwendig ist"
+},
+"correct_answers": [
+"a",
+"b",
+"c",
+"d"
+],
+"explanation": "Beim Design eines Monitoring-Konzepts stellt man z.B. folgende Fragen: Erfolgt die Datensammlung aktiv oder passiv? Wo im System werden Daten gemessen (z.B. an welchen Schnittstellen)? Wer soll die Daten erheben und analysieren (Cloud-Provider, Kunde selbst, externer Dienst)? Und: Welche Erkenntnisse will man aus den Kennzahlen gewinnen? Ob man Monitoring braucht, stellt sich in der Regel nicht – es ist fuer den Betrieb essentiell."
+},
+{
+"id": "80",
+"question": "Wofuer ist das Incident Management im Cloud-Betrieb zustaendig?",
+"choices": {
+"a": "Fuer die moeglichst schnelle Wiederherstellung des Normalbetriebs bei Stoerungen (Bearbeitung ungeplanter Incidents)",
+"b": "Fuer die Einhaltung saemtlicher Datenschutzvorschriften",
+"c": "Fuer die praeventive Vermeidung aller potenziellen Stoerungen (Problem Management)",
+"d": "Fuer die Abrechnung der Cloud-Kosten"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Incident Management kuemmert sich um alle ungeplanten Stoerungen/Incidents und hat das Ziel, die Auswirkungen auf den Betrieb so gering wie moeglich zu halten bzw. den Dienst schnell wiederherzustellen. Es ist reaktiv ausgerichtet. Datenschutz oder Kostenabrechnung zaehlen nicht zu seinen Aufgaben, und die vorbeugende Problembehandlung uebernimmt das Problem Management."
+},
+{
+"id": "81",
+"question": "Welche Art des Monitorings erzeugt zusaetzliche Last auf das zu ueberwachende System?",
+"choices": {
+"a": "Aktives Monitoring",
+"b": "Passives Monitoring",
+"c": "Keines von beiden",
+"d": "Beide gleichermassen"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Aktives Monitoring sendet zusaetzliche Anfragen oder Transaktionen an ein System, was die Systemlast leicht erhoeht. Passives Monitoring dagegen lauscht nur auf bestehende Logs/Traffic und verursacht praktisch keine Mehrbelastung."
+},
+{
+"id": "82",
+"question": "Wer kann im Rahmen des Cloud-Monitorings fuer das Sammeln und Auswerten von Metriken verantwortlich sein?",
+"choices": {
+"a": "Der Cloud-Anbieter (Provider)",
+"b": "Der Cloud-Kunde selbst",
+"c": "Ein externer, darauf spezialisierter Drittanbieter",
+"d": "Niemand – Monitoring laeuft immer automatisch ohne Verantwortliche"
+},
+"correct_answers": [
+"a",
+"b",
+"c"
+],
+"explanation": "Je nach vertraglicher Regelung und Bedarf kann das Monitoring von verschiedenen Parteien durchgefuehrt werden: Der Cloud-Provider bietet meist eigene Monitoring-Tools an, der Kunde kann aber ebenso eigene Monitoring-Loesungen einsetzen oder einen spezialisierten Drittanbieter damit beauftragen. Eine klare Verantwortlichkeit muss definiert sein – von selbst ohne Zustaendige passiert es nicht."
+},
+{
+"id": "83",
+"question": "Welche Kennzahlen (KPIs) koennen in einem SLA u\u0308blicherweise zur Leistungsmessung vereinbart werden?",
+"choices": {
+"a": "Verfuegbarkeit des Services in Prozent",
+"b": "Maximale Reaktionszeit auf Stoerungsmeldungen",
+"c": "Anzahl der IT-Mitarbeiter des Anbieters",
+"d": "Haeufigkeit von Datensicherungen (Backup-Frequenz)"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "In SLAs werden haeufig Messgroessen wie Verfuegbarkeitszeiten (z.B. 99% Uptime), Reaktionszeiten des Supports (z.B. innerhalb 30 Minuten) oder Backup-Zyklen festgelegt. Die Mitarbeiterzahl des Anbieters ist kein Leistungsindikator."
+},
+{
+"id": "84",
+"question": "Warum muessen die festgelegten QoS-Parameter in einem SLA kontinuierlich gemessen und ueberwacht werden?",
+"choices": {
+"a": "Um die Einhaltung der vereinbarten Service-Standards ueber die gesamte Vertragslaufzeit sicherzustellen",
+"b": "Weil ansonsten der Cloud-Dienst automatisch beendet wird",
+"c": "Damit Abweichungen sofort erkannt und Gegenmassnahmen eingeleitet werden koennen",
+"d": "Damit der Kunde regelmaessig Reports ueber die Service-Qualitaet erhaelt"
+},
+"correct_answers": [
+"a",
+"c",
+"d"
+],
+"explanation": "Waehrend des SLA-Lebenszyklus muessen die Qualitaetskennzahlen (QoS-Parameter) fortlaufend gemessen werden, um festzustellen, ob der Dienstleister die vereinbarte Leistung erfuellt. Nur so koennen Abweichungen rechtzeitig entdeckt und eskaliert werden. Zudem werden diese Werte in regelmaessigen Berichten (Reports) dokumentiert. Eine automatische Beendigung des Dienstes erfolgt dadurch nicht."
+},
+{
+"id": "85",
+"question": "Welche Faktoren treiben den Innovationsdruck auf Unternehmen im Zuge der digitalen Transformation?",
+"choices": {
+"a": "Die Digitalisierung von Geschaeftsmodellen",
+"b": "Immer kuerzere Produktlebenszyklen und Time-to-Market",
+"c": "Ruecklaeufiger Wettbewerbsdruck im Markt",
+"d": "Wachsende Kundenerwartungen an schnelle, ortsunabhaengige Services"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "Unternehmen muessen innovieren, weil sie ihre Geschaeftsmodelle digitalisieren muessen, weil Produktlebenszyklen immer kuerzer werden (und damit schneller Innovation erfordern) und weil Kunden heute nahtlosen, sofortigen Zugriff auf Dienste erwarten. Der Wettbewerbsdruck nimmt durch Globalisierung und Digitalisierung zu, nicht ab."
+},
+{
+"id": "86",
+"question": "Wie wird 'Innovation' nach Doblin definiert?",
+"choices": {
+"a": "Als Schaffung eines neuen, rentablen Angebots oder Geschaeftsmodells",
+"b": "Als neuartige Loesung fuer bestehende Herausforderungen",
+"c": "Als geringfuegige Anpassung ohne spuerbaren Mehrwert",
+"d": "Als Erschliessung zusaetzlicher Einnahmequellen fuer langfristigen Wert"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "Nach Doblin ist Innovation die Entwicklung eines tragfaehigen neuen Angebots oder Geschaeftsmodells, die neuartige Loesung eines bestehenden Problems und die Erkennung neuer Wachstums- und Einnahmequellen fuer nachhaltigen Geschaeftserfolg. Kleine Aenderungen ohne Mehrwert zaehlen nicht als Innovation."
+},
+{
+"id": "87",
+"question": "Wie traegt Cloud Computing laut Vorlesung als zentraler Treiber zur Innovation bei?",
+"choices": {
+"a": "Es ermoeglicht schnellen Zugriff auf neue Technologien fuer Experimente",
+"b": "Es erschwert die Entwicklung und Erprobung neuer Geschaeftsmodelle",
+"c": "Es ermoeglicht eine schnelle Produktentwicklung und -validierung",
+"d": "Es foerdert Zusammenarbeit und Vernetzung ueber Unternehmensgrenzen hinweg"
+},
+"correct_answers": [
+"a",
+"c",
+"d"
+],
+"explanation": "Cloud Computing beguenstigt Innovation, indem es Unternehmen einen schnellen und kostenguenstigen Zugang zu neuen Technologien bietet, die Entwicklung von Produkten und Prototypen beschleunigt (durch skalierbare Ressourcen) und die Zusammenarbeit mit Partnern sowie die Oeffnung nach aussen erleichtert. Es behindert neue Geschaeftsmodelle nicht – im Gegenteil, es unterstuetzt deren schnelle Umsetzung."
+},
+{
+"id": "88",
+"question": "Was ist mit 'Infrastructure as Code' (IaC) gemeint?",
+"choices": {
+"a": "IT-Infrastruktur (Rechenleistung, Netzwerke, Speicher) wird mittels Code definiert, automatisiert bereitgestellt und verwaltet",
+"b": "Server-Hardware wird weiterhin manuell im Rechenzentrum installiert und konfiguriert",
+"c": "Konfigurationsaenderungen erfolgen durch Scripts statt durch manuelle Eingriffe",
+"d": "Infrastruktur-Komponenten koennen versioniert und wiederverwendet werden wie Softwarecode"
+},
+"correct_answers": [
+"a",
+"c",
+"d"
+],
+"explanation": "IaC bedeutet, dass Ressourcen wie Server, Netzwerke oder Speicher durch Programmiercode beschrieben und automatisiert provisioniert werden. Aenderungen an der Infrastruktur geschehen somit ebenfalls durch Code/Skripte, was Automatisierung ermoeglicht, und die Definitionen sind versionier- und wiederholbar wie Software. Manuelle Hardware-Installation ist dann nicht mehr noetig."
+},
+{
+"id": "89",
+"question": "Welche Vorteile bietet der Einsatz von Infrastructure as Code (IaC)?",
+"choices": {
+"a": "Schnelle, konsistente und kosteneffiziente Bereitstellung von Infrastrukturressourcen",
+"b": "Hoehere Fehleranfaelligkeit durch die Automatisierung der Bereitstellung",
+"c": "Moeglichkeit, Infrastruktur-Konfigurationen wiederzuverwenden und zu standardisieren",
+"d": "Reduzierung des manuellen Aufwands bei Aenderungen der Infrastruktur"
+},
+"correct_answers": [
+"a",
+"c",
+"d"
+],
+"explanation": "IaC erlaubt es, Infrastruktur deutlich schneller und standardisiert bereitzustellen, da automatisch und skriptbasiert gearbeitet wird. Dadurch sinkt auch das Fehlerrisiko (weniger manuelle Fehler) und der personelle Aufwand fuer Konfigurationsaenderungen. Konfigurationen koennen in Form von Code-Bibliotheken wiederverwendet werden. Daher wirkt IaC eher fehlervermeidend als fehleranfaelliger."
+},
+{
+"id": "90",
+"question": "Welche Tools werden typischerweise fuer Infrastructure as Code eingesetzt?",
+"choices": {
+"a": "Terraform",
+"b": "Ansible",
+"c": "Microsoft Excel",
+"d": "Chef/Puppet"
+},
+"correct_answers": [
+"a",
+"b",
+"d"
+],
+"explanation": "Gaengige IaC-Tools sind zum Beispiel Terraform (zum Bereitstellen von Cloud-Ressourcen per Code) und Konfigurations-Management-Werkzeuge wie Ansible oder auch Chef/Puppet. Mit Tabellenkalkulation (Excel) laesst sich Infrastruktur nicht als Code steuern."
+},
+{
+"id": "91",
+"question": "Was ist mit 'Oeffnung nach Aussen' als Innovationsfaktor gemeint?",
+"choices": {
+"a": "Zusammenarbeit mit externen Partnern (z.B. Start-ups, Forschungseinrichtungen), um Innovationen zu foerdern",
+"b": "Verzicht auf interne Entwicklungsressourcen zugunsten externer Zukaufprodukte",
+"c": "Einbeziehung von Kunden und Lieferanten in Entwicklungs- und Innovationsprozesse",
+"d": "Vero\u0308ffentlichung aller vertraulichen Unternehmensdaten, um externe Innovation zu ermoeglichen"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Als 'Oeffnung nach Aussen' im Innovationskontext wird verstanden, dass Unternehmen Innovation nicht nur intern betreiben, sondern auch externe Akteure einbeziehen. Das kann durch Kooperationen mit Partnern, Lieferanten oder Kundenfeedback geschehen (Open Innovation). Nicht gemeint ist, dass man alle internen Entwicklungsressourcen abbaut oder gar Geheimnisse offenlegt."
+},
+{
+"id": "92",
+"question": "Ein Start-up moechte neue Software-Ideen schnell ausprobieren und bei Erfolg stark skalieren. Wie kann Cloud Computing dies unterstuetzen?",
+"choices": {
+"a": "Durch schnelle Bereitstellung zusaetzlicher Server- und Speicherressourcen nach Bedarf",
+"b": "Durch ausschliessliche Verwendung firmeneigener Hardware mit langen Beschaffungszeiten",
+"c": "Durch nutzungsbasierte Abrechnung statt hoher Anfangsinvestitionen",
+"d": "Durch Verzicht auf jegliche Sicherheitsvorkehrungen zur Beschleunigung"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Mit Cloud-Technologien kann das Start-up bei Bedarf sehr kurzfristig IT-Ressourcen hinzubuchen (und auch wieder freigeben), anstatt erst Hardware kaufen zu muessen. Auch muessen keine grossen Anfangsinvestitionen getaetigt werden – man zahlt nach Nutzung (Pay-as-you-go). Das ermoeglicht schnelles Experimentieren und ggf. massives Hochskalieren, wenn eine Idee einschlaegt. Eigene Hardware mit langer Beschaffung wuerde das verzoegern."
+},
+{
+"id": "93",
+"question": "Was versteht man unter einer Multi-Cloud-Strategie?",
+"choices": {
+"a": "Die parallele Nutzung von Cloud-Diensten mehrerer unterschiedlicher Anbieter",
+"b": "Den alleinigen Einsatz einer einzigen Public-Cloud-Plattform",
+"c": "Eine Kombination aus On-Premises und Public Cloud (Hybrid Cloud)",
+"d": "Die Aufteilung einer Anwendung ueber mehrere Cloud-Anbieter hinweg"
+},
+"correct_answers": [
+"a",
+"d"
+],
+"explanation": "Bei Multi-Cloud werden verschiedene Cloud-Anbieter gleichzeitig eingesetzt, um Abhaengigkeiten zu reduzieren oder fuer verschiedene Zwecke spezialisierte Dienste zu nutzen. Oft werden auch Anwendungen so verteilt, dass Komponenten bei unterschiedlichen Providern laufen. Im Gegensatz dazu steht Single-Cloud (nur ein Anbieter). Hybrid Cloud meint die Kombination von eigenem Rechenzentrum mit Cloud, was ein anderer Begriff ist."
+},
+{
+"id": "94",
+"question": "Was beschreibt 'Serverless Computing' als aktuellen Cloud-Trend?",
+"choices": {
+"a": "Das Ausfuehren von Code beim Cloud-Provider, ohne dass der Nutzer sich um die darunter liegende Server-Infrastruktur kuemmern muss",
+"b": "Den voelligen Verzicht auf Server-Hardware im Rechenzentrum des Providers",
+"c": "Eine Outsourcing-Variante, die keine IT-Abteilung mehr benoetigt",
+"d": "Ein Cloud-Modell, bei dem minutengenau fuer die Ausfuehrung von Funktionen abgerechnet wird"
+},
+"correct_answers": [
+"a",
+"d"
+],
+"explanation": "Serverless (Function as a Service) bedeutet, dass der Entwickler lediglich Funktionen/Code bereitstellt, die in der Cloud ausgefuehrt werden – der Provider managt die Bereitstellung der benoetigten Infrastruktur automatisch. Abgerechnet wird in sehr kleinen Zeiteinheiten pro Ausfuehrung. Es gibt natuerlich weiterhin physische Server beim Provider, aber aus Kundensicht muss man sich nicht damit befassen. Eine IT-Abteilung braucht man nach wie vor, u.a. fuer die Entwicklung."
+},
+{
+"id": "95",
+"question": "Was versteht man unter 'Edge Computing' im Zusammenhang mit Cloud und IoT?",
+"choices": {
+"a": "Die Verarbeitung von Daten und Ausfuehrung von Berechnungen nahe am Entstehungsort (Netzwerkrand), um Latenzen zu verringern",
+"b": "Die ausschliessliche Nutzung eines zentralen Rechenzentrums fuer alle Berechnungen",
+"c": "Eine Erweiterung der Cloud durch dezentrale Knotenpunkte an verschiedenen Standorten",
+"d": "Das Speichern von Daten nur auf den Endgeraeten der Benutzer"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Edge Computing verlagert Rechenleistung aus zentralen Clouds hin zu den Raendern des Netzes – also in die Naehe der Datenquelle (z.B. IoT-Geraete, Standorte) – um Echtzeit-Anforderungen gerecht zu werden und Latenz sowie Bandbreite zu optimieren. Es ergaenzt zentrale Cloud-Strukturen durch verteilte Knoten. Daten nur auf Endgeraeten zu halten, waere kein typisches Edge-Computing-Szenario."
+},
+{
+"id": "96",
+"question": "Warum gelten Container-Technologien und Kubernetes als wichtige Trends im Cloud Computing?",
+"choices": {
+"a": "Container ermoeglichen portable, leichtgewichtige Deployments von Anwendungen unabhaengig von der Umgebung",
+"b": "Container binden Anwendungen fester an einen Cloud-Anbieter als klassische Virtualisierung",
+"c": "Kubernetes automatisiert das Management und die Orchestrierung grosser Container-Mengen ueber verschiedene Infrastrukturumgebungen",
+"d": "Container-Technologie ersetzt klassische Virtualisierung komplett und sofort"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Container erlauben es, Anwendungen inklusive Abhaengigkeiten paketiert zu verteilen – sie laufen in jeder Umgebung gleich, was Portabilitaet bringt. Kubernetes ist ein weit verbreitetes Open-Source-System, um Container in grossem Massstab u\u0308ber Cluster hinweg automatisiert bereitzustellen, zu skalieren und hochverfuegbar zu machen. Container machen VMs zwar in vielen Faellen obsolet, ersetzen sie aber nicht schlagartig vollstaendig."
+},
+{
+"id": "97",
+"question": "Wie veraendert Cloud Computing die Rolle der IT-Abteilung im Unternehmen?",
+"choices": {
+"a": "Die IT-Abteilung entwickelt sich staerker zum internen Berater und Enabler fuer die Fachbereiche",
+"b": "Die IT-Abteilung verliert an Bedeutung und wird ueberfluessig",
+"c": "Das IT-Team muss neue Faehigkeiten im Provider-Management und in der Orchestrierung von Cloud-Services aufbauen",
+"d": "Die IT konzentriert sich nur noch auf die Wartung lokaler Hardware"
+},
+"correct_answers": [
+"a",
+"c"
+],
+"explanation": "Durch den Umstieg auf Cloud wird die IT-Abteilung weniger zum reinen Betreiber von Hardware und vielmehr zum Vermittler, Berater und Koordinator zwischen Cloud-Providern und den Business-Einheiten. Sie benoetigt Know-how im Management externer Services und in der Integration der Cloud in die Geschaeftsprozesse. An Bedeutung verliert sie nicht – ihre Aufgaben verlagern sich."
+},
+{
+"id": "98",
+"question": "Welche IT-Funktion wird typischerweise NICHT an externe Dienstleister ausgelagert?",
+"choices": {
+"a": "Strategische IT-Planung und IT-Governance",
+"b": "Rechenzentrums-Betrieb (z.B. Server-Hosting)",
+"c": "IT-Helpdesk und Benutzer-Support",
+"d": "Anwendungsentwicklung"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Kernstrategische Aufgaben wie die IT-Strategie und Governance verbleiben nahezu immer im eigenen Unternehmen, da sie eng mit der Geschaeftsausrichtung verzahnt sind. Betrieb und Support (Rechenzentrum, Helpdesk) sowie teilweise auch die Entwicklung von Anwendungen hingegen werden haeufig (natuerlich je nach Unternehmen unterschiedlich) extern vergeben."
+},
+{
+"id": "99",
+"question": "Was versteht man unter Outtasking im IT-Outsourcing-Kontext?",
+"choices": {
+"a": "Die Auslagerung einzelner spezifischer Aufgaben oder Teilservices statt eines gesamten IT-Prozesses",
+"b": "Die komplette Uebergabe aller IT-Funktionen an einen Outsourcing-Provider",
+"c": "Eine kurzfristige Vergabe von Aufgaben an interne Teams",
+"d": "Eine Zusammenarbeit mehrerer Provider an genau derselben Aufgabe"
+},
+"correct_answers": [
+"a"
+],
+"explanation": "Outtasking ist eine Form des Outsourcings, bei der nicht ein ganzer Bereich oder Prozess uebergeben wird, sondern nur bestimmte Teilaufgaben oder Services. Beispielsweise koennte ein Unternehmen nur den Betrieb einer einzelnen Applikation oder den Backup-Service an einen Dienstleister geben. Es ist also gezielter und granularer als klassisches umfassendes Outsourcing."
+},
+{
+"id": "100",
+"question": "In welchen Bereichen ausserhalb der IT werden Service Level Agreements (SLAs) heute ebenfalls angewendet?",
+"choices": {
+"a": "Im Kundenservice, z.B. Callcenter-Dienstleistungen",
+"b": "Im Personalwesen (HR-Services)",
+"c": "Im Facility-Management (Gebaeudeservice)",
+"d": "Im privaten Haushalt fuer haeufige Handwerksdienste"
+},
+"correct_answers": [
+"a",
+"b",
+"c"
+],
+"explanation": "SLAs stammen zwar aus der IT, sind aber mittlerweile auch in anderen Dienstleistungsbereichen ueblich. So definieren z.B. interne HR-Servicecenter ihre Service Levels gegenu\u0308ber den Mitarbeitern oder externe Facility-Management-Anbieter gegenu\u0308ber ihren Kunden. Im privaten Umfeld hingegen werden ueblicherweise keine formalen SLAs vereinbart."
+},
+
+  {
+    "id": "order_sourcing_4",
+    "question": "Ordne die Phasen der Cloud-Strategieentwicklung korrekt:",
+    "choices": {
+      "items": [
+        "Analyse der Ausgangslage",
+        "Zielbild definieren",
+        "Cloud-Strategie formulieren",
+        "Strategie validieren"
+      ]
+    },
+    "correct_order": [
+      "Analyse der Ausgangslage",
+      "Zielbild definieren",
+      "Cloud-Strategie formulieren",
+      "Strategie validieren"
+    ],
+    "type": "order",
+    "explanation": "Strategien entwickeln sich vom Ist-Analysepunkt bis zur validierten Zielsetzung."
+  },
+  {
+    "id": "order_sourcing_5",
+    "question": "Ordne die Servicemodelle im Cloud Computing nach steigender Nutzerverantwortung:",
+    "choices": {
+      "items": [
+        "SaaS",
+        "PaaS",
+        "IaaS",
+        "On-Premise"
+      ]
+    },
+    "correct_order": [
+      "SaaS",
+      "PaaS",
+      "IaaS",
+      "On-Premise"
+    ],
+    "type": "order",
+    "explanation": "Je weiter nach rechts, desto mehr Verantwortung übernimmt der Kunde."
+  },
+  {
+    "id": "order_sourcing_6",
+    "question": "Ordne die Schritte im IT-Risikomanagement-Prozess korrekt:",
+    "choices": {
+      "items": [
+        "Risikoidentifikation",
+        "Risikobewertung",
+        "Risikobehandlung",
+        "Risikokontrolle"
+      ]
+    },
+    "correct_order": [
+      "Risikoidentifikation",
+      "Risikobewertung",
+      "Risikobehandlung",
+      "Risikokontrolle"
+    ],
+    "type": "order",
+    "explanation": "Ein klassischer iterativer Risikomanagement-Prozess nach ISO 31000."
+  },
+  {
+    "id": "order_sourcing_7",
+    "question": "Wie verläuft das typische Vorgehensmodell zur Sourcing-Strategie?",
+    "choices": {
+      "items": [
+        "Analyse Ist-Situation",
+        "Definition Ziele",
+        "Evaluation Optionen",
+        "Umsetzungsplanung"
+      ]
+    },
+    "correct_order": [
+      "Analyse Ist-Situation",
+      "Definition Ziele",
+      "Evaluation Optionen",
+      "Umsetzungsplanung"
+    ],
+    "type": "order",
+    "explanation": "Ein methodisches Vorgehensmodell beginnt stets mit Analyse und mündet in der konkreten Planung."
+  },
+  {
+    "id": "order_sourcing_8",
+    "question": "Ordne die Cloud-Governance-Schritte nach typischer Umsetzung:",
+    "choices": {
+      "items": [
+        "Governance-Ziele festlegen",
+        "Policies definieren",
+        "Rollen und Verantwortlichkeiten zuweisen",
+        "Kontrollmechanismen implementieren"
+      ]
+    },
+    "correct_order": [
+      "Governance-Ziele festlegen",
+      "Policies definieren",
+      "Rollen und Verantwortlichkeiten zuweisen",
+      "Kontrollmechanismen implementieren"
+    ],
+    "type": "order",
+    "explanation": "Governance beginnt mit Zieldefinition und endet mit konkreten Kontrollen."
+  },
+  {
+    "id": "order_sourcing_9",
+    "question": "Wie sieht ein typisches Vorgehen zur Service Transition aus?",
+    "choices": {
+      "items": [
+        "Planung der Transition",
+        "Test & Validierung",
+        "Deployment",
+        "Review & Optimierung"
+      ]
+    },
+    "correct_order": [
+      "Planung der Transition",
+      "Test & Validierung",
+      "Deployment",
+      "Review & Optimierung"
+    ],
+    "type": "order",
+    "explanation": "Die Transition beinhaltet Planung, Test, Umsetzung und Rückblick."
+  },
+  {
+    "id": "order_sourcing_10",
+    "question": "Ordne die Bewertungskriterien im Cloud Readiness Assessment:",
+    "choices": {
+      "items": [
+        "Technologische Reife",
+        "Mitarbeiterkompetenz",
+        "Sicherheitsanforderungen",
+        "Compliance-Anforderungen"
+      ]
+    },
+    "correct_order": [
+      "Technologische Reife",
+      "Mitarbeiterkompetenz",
+      "Sicherheitsanforderungen",
+      "Compliance-Anforderungen"
+    ],
+    "type": "order",
+    "explanation": "Diese Reihenfolge folgt typischen Prioritäten im Cloud Readiness Kontext."
+  }
+
+]
