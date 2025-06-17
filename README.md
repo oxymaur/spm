@@ -34,22 +34,15 @@ git clone https://github.com/yourname/SPM-quizz-v2.git
 cd SPM-quizz-v2
 ```
 
-### 2. Create and activate virtual environment (optional but recommended)
 
-```bash
-python -m venv venv
-source venv/Scripts/activate       # Windows
-# or
-source venv/bin/activate           # macOS/Linux
-```
 
-### 3. Install dependencies
+### 2. Install dependencies
 
 ```bash
 pip install streamlit
 ```
 
-### 4. Run the app
+### 3. Run the app
 
 ```bash
 streamlit run quiz.py
