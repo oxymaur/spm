@@ -74,7 +74,7 @@ def run_quiz():
 
     else:
         options = []
-        for k in ['a', 'b', 'c', 'd']:
+        for k in ['a', 'b', 'c', 'd', 'e']:
             text = q["choices"].get(k)
             if text:
                 options.append((k, text))
